@@ -1,6 +1,6 @@
 
 # 🌱 OptiCrop
-## Smart Agricultural Production Optimization Engine
+# Smart Agricultural Production Optimization Engine
 
 OptiCrop is a Machine Learning-powered web application that recommends the most suitable crop based on soil nutrients and environmental conditions. The application helps farmers, students, and agricultural enthusiasts make informed crop selection decisions using predictive analytics and an interactive web interface.
 
